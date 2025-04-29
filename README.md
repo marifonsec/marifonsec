@@ -12,7 +12,7 @@ No dia a dia, utilizo Power BI, SQL, Python, Snowflake, DBT, PowerApps e Power A
 - DataOps e automação de pipelines
 
 🔍 **Estudando atualmente**:
-- Python para dados
+- Liderança
 - Engenharia de dados
 - Metodologias ágeis aplicadas a dados
 
