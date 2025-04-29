@@ -1,5 +1,5 @@
 # Olá! 👋
-## Eu sou a Mariana Fonseca — Analista de Dados e Líder Técnica em DataOps 📈
+## Me chamo Mariana (ou Mari) — Analista de Dados e Líder Técnica em DataOps 📈
 
 Pós-graduada em BI, Big Data e Analytics, com experiência em análise de dados, DataOps e automação de processos.  
 Atuo na Equatorial Energia, liderando iniciativas de governança de dados, automação de relatórios e melhoria contínua.
