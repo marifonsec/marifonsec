@@ -1,9 +1,20 @@
-# Olá!👋
-## Me chamo Mariana (ou Mari), sou Analista de Dados. 📈
+# Olá! 👋
+## Eu sou a Mariana Fonseca — Analista de Dados e Líder Técnica em DataOps 📈
 
-Comecei a carreira ainda no estágio utilizando principalmente o PowerBi, já desenvolvi alguns dashboards para a empresa que eu trabalho atualmente estou sempre em busca de mais conhecimento.
+Pós-graduada em BI, Big Data e Analytics, com experiência em análise de dados, DataOps e automação de processos.  
+Atuo na Equatorial Energia, liderando iniciativas de governança de dados, automação de relatórios e melhoria contínua.
 
-Atualmente, tenho estudando Python, linguagem SQL e linguagem DAX. Além disso, busco aprender sobre gestão e gerenciamento de projetos.
+No dia a dia, utilizo Power BI, SQL, Python, Snowflake, DBT, PowerApps e Power Automate.
+
+🎯 **Interesses**:
+- Governança e arquitetura de dados
+- BI e análise preditiva
+- DataOps e automação de pipelines
+
+🔍 **Estudando atualmente**:
+- Python para dados
+- Engenharia de dados
+- Metodologias ágeis aplicadas a dados
 
 ### Você também pode me achar em:
 <div>
