@@ -1,8 +1,7 @@
 # Olá! 👋
 ## Me chamo Mariana (ou Mari) — Analista de Dados e Líder Técnica em DataOps 📈
 
-Pós-graduada em BI, Big Data e Analytics, com experiência em análise de dados, DataOps e automação de processos.  
-Atuo na Equatorial Energia, liderando iniciativas de governança de dados, automação de relatórios e melhoria contínua.
+Profissional pós-graduada em BI, Big Data e Analytics, com sólida experiência em análise e engenharia de dados (DataOps), liderança técnica e automação de processos. Atuação em projetos críticos orientados a dados, com foco em governança, entrega de informações confiáveis em tempo real e conformidade regulatória. Experiência com KPIs, relatórios gerenciais e suporte a áreas técnicas e sociais. Atualmente, busco uma transição para Engenharia de Dados, com ênfase em desenvolvimento de pipelines, arquitetura de dados em nuvem e tecnologias emergentes como GCP, Databricks e Spark
 
 No dia a dia, utilizo Power BI, SQL, Python, Snowflake, DBT, PowerApps e Power Automate.
 
